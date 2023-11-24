@@ -6,6 +6,9 @@ services:
     environment:
       EULA: "true"
       MEMORY: "7G"
+      OPS: |
+        Mukki182
+        Cell182
     ports:
       - "25565:25565"
     volumes:
